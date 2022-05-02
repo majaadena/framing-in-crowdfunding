@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/487780427.svg)](https://zenodo.org/badge/latestdoi/487780427)
+
 # framing-in-crowdfunding
 Voluntary ‘donations’ versus reward-oriented ‘contributions’: Two experiments on framing in funding mechanisms
 
